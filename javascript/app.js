@@ -7,7 +7,7 @@ function splitScroll() {
     triggerHook: 0
   })
     .setPin('.projects-title')
-    .addIndicators()
+    /* .addIndicators() */
     .addTo(controller);
 }
 
